@@ -1,8 +1,7 @@
-# Creation-d-un-site-web-pour-une-mairie
+# Site web pour une mairie
 
 
-Nous allons essayer de concevoir et mettre en place un site web pour la commune de THENIA et apprendre à gérer les principaux éléments en fonction de la progression du projet.
-L’objectif principal de ce site est de faciliter la communication entre les citoyens et la mairie, et garantir des services aux clients en améliorant l'information fournie. 
+Nous allons concevoir un site web pour une mairie.
 
 Langages et outils de développement : 
 
