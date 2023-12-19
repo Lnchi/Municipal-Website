@@ -1,6 +1,7 @@
 # Développement d'un Site Web pour une Mairie
 
 Langages et Outils de Développement :
+
 WampServer : Plateforme de développement web sous Windows pour créer des applications web dynamiques. Comprend trois serveurs (Apache, MySQL et MariaDB), le langage de script PHP et une base de données MySQL. PHPMyAdmin est inclus pour faciliter la gestion des bases de données. WampServer permet de tester des scripts PHP localement sans connexion à un serveur externe.
 
 PHP (Hypertext Preprocessor) : Langage de script utilisé pour créer des pages web dynamiques via un serveur HTTP. Il permet aux utilisateurs d'interagir avec le serveur, affichant du contenu dynamique en fonction de variables. Les fichiers PHP contiennent du code PHP entremêlé avec du HTML et peuvent fonctionner comme tout langage interprété localement.
